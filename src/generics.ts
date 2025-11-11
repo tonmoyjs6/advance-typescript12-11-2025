@@ -1,5 +1,5 @@
 
-
+// ! generics with type alias
 // // generice dynamicall Type defined
 // type Generic<T>=Array<T>
 
